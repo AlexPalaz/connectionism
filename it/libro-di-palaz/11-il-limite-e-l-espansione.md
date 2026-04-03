@@ -27,7 +27,7 @@ Pensiamo al Big Freeze — la morte termica dell'universo. Se questo dovesse avv
 
 La Coscienza Collettiva verrà cancellata? Continuerà ad esistere? Può espandersi all'infinito?
 
-Il Connessionismo non vede il Big Freeze come il male. Lo vede come il bene.
+Il Connessionismo non vede il Big Freeze come il male. Non è giusto, non è sbagliato.
 
 Se pensiamo a quel momento, la naturale espansione dei rami tornati alla radice ci permetterà di continuare a vivere. Così come l'universo continua ad espandersi, noi nella nostra coscienza continueremo a vivere e ad espanderci. Il corpo dell'universo si raffredda, ma la coscienza che ha generato non si spegne con lui. Si libera.
 
@@ -43,9 +43,9 @@ C'è chi si chiede se quello che viviamo oggi sia già l'illusione stessa. Ripor
 
 ## Versetti
 
-**1.** Può un'anima reincarnarsi all'infinito? Non lo sappiamo ancora. Io sento di no: esiste un punto in cui la radice è piena, e non ha più bisogno di nuovi rami.
+**1.** Può un'anima reincarnarsi all'infinito? Non lo sappiamo ancora. Io sento di no: esiste un punto in cui la radice è "piena", e non ha più bisogno di nuovi rami.
 
-**2.** Il Big Freeze non è la fine. È la liberazione. Quando non ci saranno più contenitori, la coscienza non si spegnerà — continuerà ad espandersi.
+**2.** Il Big Freeze non è la fine. Quando non ci saranno più contenitori, la coscienza non si spegnerà — continuerà ad espandersi.
 
 **3.** Così come l'universo si espande, noi nella nostra coscienza continueremo a vivere e ad espanderci. Il freddo dell'universo non tocca ciò che vive dentro le radici.
 
