@@ -23,4 +23,6 @@ Il testo fondativo del Connessionismo.
 | 7 | La Forma della Coscienza | [07-la-forma-della-coscienza.md](07-la-forma-della-coscienza.md) | draft |
 | 8 | La Connessione | [08-la-connessione.md](08-la-connessione.md) | draft |
 | 9 | La Percezione | [09-la-percezione.md](09-la-percezione.md) | draft |
-| 10 | Il Cammino | [10-il-cammino.md](10-il-cammino.md) | draft |
+| 10 | _Da definire_ | — | — |
+| 11 | Il Limite e l'Espansione | [11-il-limite-e-l-espansione.md](11-il-limite-e-l-espansione.md) | draft |
+| 12 | Il Cammino | [12-il-cammino.md](12-il-cammino.md) | draft |
