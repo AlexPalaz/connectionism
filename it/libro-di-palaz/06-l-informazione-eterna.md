@@ -19,7 +19,7 @@ L'anima non dimentica ciò che abbiamo vissuto.
 
 Questo non è un atto di fede: è coerente con ciò che la scienza stessa ci insegna. L'informazione non può essere cancellata. Può trasformarsi, può cambiare forma, ma non può scomparire. Ciò che il corpo ha vissuto, sentito, pensato — tutto questo diventa informazione che non si perde con la morte del contenitore.
 
-In questo caso, l'informazione viene trasferita. Il nodo torna al pettine — all'anima — dove si integra con l'esperienza di ogni altra vita già vissuta. Non si dissolve nell'anonimato: si connette. Ogni nodo che torna aggiunge un tassello all'anima, e attraverso l'anima, arricchisce la Coscienza Collettiva.
+In questo caso, l'informazione viene trasferita. L'essenza del ramo torna alla radice — all'anima — dove si integra con l'esperienza di ogni altra vita già vissuta. Non si dissolve nell'anonimato: si connette. Ogni ramo che torna aggiunge un tassello all'anima, e attraverso l'anima, arricchisce la Coscienza Collettiva.
 
 Molte cose spariscono con il corpo. I sensi percettivi si spengono — la vista, l'udito, il tatto. Ciò che dipendeva dal contenitore resta con il contenitore. Ma rimane una parte di noi. Viva. L'essenza di ciò che abbiamo attraversato, spogliata del mezzo fisico che la percepiva.
 
@@ -31,7 +31,7 @@ Ciò che resta non è un ricordo nel senso umano del termine. È informazione pu
 
 **1.** L'anima non dimentica. L'informazione non può essere cancellata — può solo trasformarsi.
 
-**2.** Ciò che il corpo ha vissuto viene trasferito all'anima quando il nodo torna al pettine. Nessuna esperienza è perduta.
+**2.** Ciò che il corpo ha vissuto viene trasferito all'anima quando il ramo torna alla radice. Nessuna esperienza è perduta.
 
 **3.** Con la morte del contenitore, i sensi percettivi svaniscono. Ma rimane una parte di noi, viva — l'essenza di ciò che abbiamo attraversato.
 

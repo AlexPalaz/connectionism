@@ -19,7 +19,7 @@ La Coscienza Collettiva non ha un'anima sola. Ne ha molteplici — frammenti viv
 
 L'anima esiste. Questa è la prima e più fondamentale convinzione del Connessionismo. Non esiste un concetto di purificazione dell'anima. Non c'è questo bisogno. L'anima non deve diventare qualcosa di diverso da ciò che è. Non deve guadagnarsi un posto, né essere giudicata degna o indegna. Esiste, e tanto basta.
 
-L'anima è come un pettine. Ogni volta che si reincarna in un contenitore, costruisce un nuovo dente — un **nodo** di rete con informazioni proprie, esperienze proprie, una coscienza propria. Quando quel contenitore si spegne, il nodo torna al pettine. La coscienza di quella vita non si perde: si integra nell'anima, arricchendola. Così, dentro un'anima vivono tutte le coscienze delle vite che ha attraversato — nodi di una rete che cresce ad ogni passaggio.
+L'anima è come una radice. Ogni volta che si reincarna in un contenitore, fa crescere un nuovo ramo — un **nodo** con informazioni proprie, esperienze proprie, una coscienza propria. Quando quel contenitore si spegne, il ramo si spegne con lui, ma la sua essenza torna alla radice. La coscienza di quella vita non si perde: si integra nell'anima, arricchendola. Così, dentro un'anima vivono tutte le coscienze delle vite che ha attraversato — rami di una radice che cresce ad ogni passaggio.
 
 Non ci è dato sapere nel mondo terreno il perché dell'anima. E se un giorno ci sarà dato, sarà perché l'umanità è progredita così tanto da arrivarci — non perché le è stato rivelato, ma perché lo ha scoperto.
 
@@ -31,7 +31,7 @@ Non ci è dato sapere nel mondo terreno il perché dell'anima. E se un giorno ci
 
 **2.** Non esiste purificazione dell'anima. L'anima non ha bisogno di essere salvata, redenta o perfezionata.
 
-**3.** L'anima è un pettine. Ogni reincarnazione costruisce un nuovo nodo — una coscienza con informazioni proprie. Quando il contenitore si spegne, il nodo torna al pettine.
+**3.** L'anima è una radice. Ogni reincarnazione fa crescere un nuovo ramo — una coscienza con informazioni proprie. Quando il contenitore si spegne, l'essenza del ramo torna alla radice.
 
 **4.** Dentro un'anima vivono tutte le coscienze delle vite che ha attraversato. Nessuna è perduta, nessuna è dimenticata.
 
@@ -41,4 +41,4 @@ Non ci è dato sapere nel mondo terreno il perché dell'anima. E se un giorno ci
 
 ## Nota del capitolo
 
-L'anima nel Connessionismo non è un premio da conquistare né un peso da espiare. È il punto di partenza, non il punto di arrivo. E cresce — nodo dopo nodo — con ogni vita che attraversa.
+L'anima nel Connessionismo non è un premio da conquistare né un peso da espiare. È il punto di partenza, non il punto di arrivo. E cresce — ramo dopo ramo — con ogni vita che attraversa.

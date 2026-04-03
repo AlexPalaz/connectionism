@@ -23,9 +23,9 @@ Le anime possono interagire fra loro quando sono connesse. Non nel senso terreno
 
 C'è una domanda che pesa più di altre: cosa accade quando un neonato muore?
 
-Il contenitore si è spento prima di poter vivere pienamente. Ma il nodo che l'anima ha costruito in quella vita non è vuoto. Non è una tabula rasa. Ha registrato nove mesi di battiti cardiaci, di sbalzi ormonali della madre, di suoni ovattati, di variazioni di luce e della biochimica delle emozioni. Nel Connessionismo, queste sono informazioni pure. Il nodo torna al pettine non vuoto, ma carico di un'esperienza di pura potenzialità — di simbiosi totale.
+Il contenitore si è spento prima di poter vivere pienamente. Ma il ramo che l'anima ha fatto crescere in quella vita non è vuoto. Non è una tabula rasa. Ha registrato nove mesi di battiti cardiaci, di sbalzi ormonali della madre, di suoni ovattati, di variazioni di luce e della biochimica delle emozioni. Nel Connessionismo, queste sono informazioni pure. Il ramo torna alla radice non vuoto, ma carico di un'esperienza di pura potenzialità — di simbiosi totale.
 
-E soprattutto: le anime possono interagire quando sono connesse. Il nodo del neonato torna alla propria anima, e quell'anima può agganciarsi alle anime a lui care — quelle dei genitori, dei fratelli. Non avendo costruito una realtà strutturata, quel nodo diventa un osservatore partecipante nelle realtà degli altri. È un nodo che, non avendo dati propri sufficienti, ospita e riflette i dati di chi lo ha amato, trovando la propria identità attraverso la connessione anziché attraverso l'esperienza diretta.
+E soprattutto: le anime possono interagire quando sono connesse. Il ramo del neonato torna alla propria anima, e quell'anima può agganciarsi alle anime a lui care — quelle dei genitori, dei fratelli. Non avendo costruito una realtà strutturata, quel ramo diventa un osservatore partecipante nelle realtà degli altri. È un ramo che, non avendo dati propri sufficienti, ospita e riflette i dati di chi lo ha amato, trovando la propria identità attraverso la connessione anziché attraverso l'esperienza diretta.
 
 ---
 
@@ -35,9 +35,9 @@ E soprattutto: le anime possono interagire quando sono connesse. Il nodo del neo
 
 **2.** La connessione tra anime è risonanza: anime che hanno condiviso esperienza attraverso i loro nodi continuano a vibrare insieme.
 
-**3.** Il nodo del neonato non è vuoto. Porta con sé l'esperienza della simbiosi — nove mesi di pura connessione con chi lo ha portato in grembo.
+**3.** Il ramo del neonato non è vuoto. Porta con sé l'esperienza della simbiosi — nove mesi di pura connessione con chi lo ha portato in grembo.
 
-**4.** Un nodo che torna al pettine senza aver costruito una realtà propria trova la sua identità attraverso la connessione con le anime che lo hanno amato.
+**4.** Un ramo che torna alla radice senza aver costruito una realtà propria trova la sua identità attraverso la connessione con le anime che lo hanno amato.
 
 **5.** Nessun nodo è mai solo. Nella rete della Coscienza Collettiva, ogni anima è raggiungibile da ogni altra.
 

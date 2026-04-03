@@ -21,7 +21,7 @@ Il corpo nasce, cresce, invecchia e si spegne. In tutto questo percorso, crea e 
 
 Ma queste caratteristiche non restano confinate nel corpo. Arrivano al nodo — la coscienza che l'anima ha costruito in quella vita. Il nodo le riceve, le assorbe, le integra. Ciò che il corpo vive diventa informazione — non perché il corpo comanda la coscienza, ma perché la coscienza è dentro quel corpo e ne raccoglie ogni esperienza.
 
-Quando il contenitore si spegne, il nodo torna al pettine — all'anima. Non torna vuoto: porta con sé tutto ciò che ha raccolto. E l'anima, arricchita, resta connessa alla Coscienza Collettiva.
+Quando il contenitore si spegne, l'essenza del ramo torna alla radice — all'anima. Non torna vuota: porta con sé tutto ciò che ha raccolto. E l'anima, arricchita, resta connessa alla Coscienza Collettiva.
 
 Se un giorno l'umanità dovesse scoprire la formula della vita eterna, il nodo continuerà semplicemente a restare dentro quel corpo. Non cambierà la sua natura: il contenitore durerà più a lungo, e la coscienza continuerà a raccogliere.
 
@@ -33,9 +33,9 @@ Se un giorno l'umanità dovesse scoprire la formula della vita eterna, il nodo c
 
 **2.** Le caratteristiche personali — ciò che siamo nel mondo — nascono dal corpo e arrivano all'anima, non il contrario.
 
-**3.** Quando il contenitore si spegne, il nodo torna al pettine — all'anima — portando con sé l'esperienza raccolta.
+**3.** Quando il contenitore si spegne, l'essenza del ramo torna alla radice — all'anima — portando con sé l'esperienza raccolta.
 
-**4.** La morte del corpo non è la morte della coscienza. È il ritorno al pettine.
+**4.** La morte del corpo non è la morte della coscienza. È il ritorno alla radice.
 
 **5.** Se il corpo dovesse un giorno non morire più, il nodo non ne sarebbe prigioniero. Continuerebbe semplicemente a vivere, raccogliere e sentire.
 
