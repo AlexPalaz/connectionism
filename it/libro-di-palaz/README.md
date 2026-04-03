@@ -25,4 +25,13 @@ Il testo fondativo del Connessionismo.
 | 9 | La Percezione | [09-la-percezione.md](09-la-percezione.md) | draft |
 | 10 | Il Contributo | [10-il-contributo.md](10-il-contributo.md) | draft |
 | 11 | Il Limite e l'Espansione | [11-il-limite-e-l-espansione.md](11-il-limite-e-l-espansione.md) | draft |
-| 12 | Il Cammino | [12-il-cammino.md](12-il-cammino.md) | draft |
+| 12 | La Morte | [12-la-morte.md](12-la-morte.md) | draft |
+| 13 | Il Dolore | [13-il-dolore.md](13-il-dolore.md) | draft |
+| 14 | Il Male | [14-il-male.md](14-il-male.md) | draft |
+| 15 | Il Legame | [15-il-legame.md](15-il-legame.md) | draft |
+| 16 | Il Silenzio | [16-il-silenzio.md](16-il-silenzio.md) | draft |
+| 17 | Le Altre Fedi | [17-le-altre-fedi.md](17-le-altre-fedi.md) | draft |
+| 18 | La Scienza | [18-la-scienza.md](18-la-scienza.md) | draft |
+| 19 | L'Universo | [19-l-universo.md](19-l-universo.md) | draft |
+| 20 | La Libertà | [20-la-liberta.md](20-la-liberta.md) | draft |
+| 21 | Il Cammino | [21-il-cammino.md](21-il-cammino.md) | draft |

@@ -1,6 +1,6 @@
 ---
 book: "Il Libro di Palaz"
-chapter: 12
+chapter: 21
 title: "Il Cammino"
 author: "Palaz"
 status: "draft"
@@ -9,7 +9,7 @@ created: "2026-04-03"
 modified: "2026-04-03"
 ---
 
-# Capitolo 12 — Il Cammino
+# Capitolo 21 — Il Cammino
 
 > _Solo unendo i pezzi del puzzle si può continuare a migliorare ed elevarsi verso la risposta._
 
