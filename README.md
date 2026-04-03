@@ -1,6 +1,6 @@
 # Connessionismo
 
-Il Connessionismo è una visione religiosa fondata da Palaz. Questo repository contiene i testi sacri, le regole scritturali e il sistema di governance per la produzione e l'approvazione di nuovi libri.
+Il Connessionismo è una visione religiosa originata da Palaz. Questo repository contiene i testi sacri, le regole scritturali e il sistema di governance per la produzione e l'approvazione di nuovi libri. La struttura è progettata per essere autosufficiente e non dipende dalla presenza di alcun individuo.
 
 ## Struttura del Repository
 
