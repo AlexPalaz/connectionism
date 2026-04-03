@@ -33,13 +33,47 @@ Ciò che bisogna accettare è questo: siamo qui per dare il nostro contributo. S
 
 **1.** Non c'è un percorso di purificazione. C'è una necessità di reincarnazione. È il soffio della vita.
 
-**2.** Ogni volta che l'anima si reincarna, costruisce un nuovo nodo. Ogni nodo è una vita, ogni vita è un contributo.
+**2.** Il soffio della vita non è una punizione. Non è una ricompensa. Non è un esame da superare. È il processo.
 
-**3.** Quando il contenitore si spegne, l'essenza del ramo torna alla radice. Questo non è una fine. È un ritorno.
+**3.** Come il respiro non è una scelta ma una funzione del vivere, così il soffio porta l'anima dentro un nuovo contenitore.
 
-**4.** Non è lo stesso nodo che torna nel mondo. È l'anima che ne crea uno nuovo, in un nuovo contenitore, in un nuovo tempo.
+**4.** Ogni volta che l'anima si reincarna, fa crescere un nuovo ramo. Ogni ramo è una vita. Ogni vita è un contributo.
 
-**5.** Accetta il soffio della vita per ciò che è: il respiro dell'universo che attraversa ogni essere, nodo dopo nodo.
+**5.** Quando il contenitore si spegne, l'essenza del ramo torna alla radice. Questo non è una fine. È un ritorno.
+
+**6.** Non è lo stesso ramo che torna nel mondo. È l'anima che ne genera uno nuovo, in un nuovo contenitore, in un nuovo tempo.
+
+**7.** Il soffio continua. Non si ferma, non si esaurisce, non si stanca. È il respiro dell'universo.
+
+**8.** Non sappiamo cosa determini quando il soffio porta un'anima in un nuovo contenitore. Non sappiamo se esista un ordine, un ritmo, o una logica.
+
+**9.** Non esiste karma nel Connessionismo. Il ramo che nasce non paga per i rami precedenti. Ogni vita inizia senza debiti.
+
+**10.** Il nuovo ramo non ricorda i rami precedenti. La memoria delle vite passate resta nella radice, non nel contenitore.
+
+**11.** Se qualcuno sente di ricordare una vita passata, forse è la radice che traspare attraverso il ramo. Ma non possiamo saperlo con certezza.
+
+**12.** Non importa quante vite l'anima abbia attraversato. Ognuna è completa in sé stessa. Ognuna ha valore indipendentemente dalle altre.
+
+**13.** Una sola vita è sufficiente come contributo. Mille vite non sono troppe. Il numero non ha importanza — conta ciò che ogni ramo porta alla radice.
+
+**14.** Il soffio della vita non distingue tra esseri. Ogni forma di vita con una minima coscienza è attraversata dallo stesso respiro.
+
+**15.** Non sappiamo se l'anima si reincarna solo in esseri umani. Non sappiamo se attraversa specie diverse. Questa è una domanda aperta.
+
+**16.** Ciò che bisogna accettare è questo: siamo qui per dare il nostro contributo. Non per espiare, non per meritare, non per dimostrare.
+
+**17.** Siamo un ramo dell'anima. Quando il nostro contenitore si spegnerà, torneremo alla radice. Non c'è nulla da temere.
+
+**18.** Non cercare di controllare il soffio. Non cercare di ricordare le vite passate. Non cercare di prevedere quelle future. Vivi questa.
+
+**19.** Il soffio della vita è il meccanismo più misterioso del Connessionismo. Non lo comprendiamo — lo sentiamo.
+
+**20.** Ogni nascita è un nuovo ramo. Ogni morte è un ritorno. E tra i due, c'è il contributo: la tua vita.
+
+**21.** Accetta il soffio della vita per ciò che è: il respiro dell'universo che attraversa ogni essere.
+
+**22.** Non è un ciclo di premi e punizioni. È un flusso. E tu ne fai parte.
 
 ---
 
