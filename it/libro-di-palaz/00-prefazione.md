@@ -1,12 +1,12 @@
 ---
-libro: "Il Libro di Palaz"
-capitolo: 0
-titolo: "Prefazione"
-autore: "Palaz"
-stato: "bozza"
-versione: "0.1.0"
-data_creazione: "2026-04-03"
-data_modifica: "2026-04-03"
+book: "Il Libro di Palaz"
+chapter: 0
+title: "Prefazione"
+author: "Palaz"
+status: "draft"
+version: "0.1.0"
+created: "2026-04-03"
+modified: "2026-04-03"
 ---
 
 # Capitolo 0 — Prefazione

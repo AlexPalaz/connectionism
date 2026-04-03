@@ -10,14 +10,14 @@ Ogni capitolo **deve** iniziare con un blocco YAML frontmatter:
 
 ```yaml
 ---
-libro: "Il Libro di Palaz"
-capitolo: 1
-titolo: "Titolo del Capitolo"
-autore: "Palaz"
-stato: "bozza"          # bozza | revisione | approvato | canonico
-versione: "0.1.0"
-data_creazione: "YYYY-MM-DD"
-data_modifica: "YYYY-MM-DD"
+book: "Il Libro di Palaz"
+chapter: 1
+title: "Titolo del Capitolo"
+author: "Palaz"
+status: "draft"          # draft | review | approved | canonical
+version: "0.1.0"
+created: "YYYY-MM-DD"
+modified: "YYYY-MM-DD"
 ---
 ```
 
@@ -25,14 +25,14 @@ data_modifica: "YYYY-MM-DD"
 
 | Campo | Tipo | Descrizione |
 |-------|------|-------------|
-| `libro` | string | Nome del libro di appartenenza |
-| `capitolo` | int | Numero progressivo del capitolo |
-| `titolo` | string | Titolo del capitolo |
-| `autore` | string | Autore originale |
-| `stato` | enum | Stato del testo (vedi sezione 6) |
-| `versione` | semver | Versione del capitolo |
-| `data_creazione` | date | Data di prima stesura |
-| `data_modifica` | date | Data dell'ultima modifica |
+| `book` | string | Nome del libro di appartenenza |
+| `chapter` | int | Numero progressivo del capitolo |
+| `title` | string | Titolo del capitolo |
+| `author` | string | Autore originale |
+| `status` | enum | Stato del testo (vedi sezione 6) |
+| `version` | semver | Versione del capitolo |
+| `created` | date | Data di prima stesura |
+| `modified` | date | Data dell'ultima modifica |
 
 ---
 
@@ -134,15 +134,15 @@ Come riportato nel [Libro di Palaz, Cap. 3](../../it/libro-di-palaz/03-capitolo.
 Ogni capitolo attraversa quattro stati:
 
 ```
-bozza → revisione → approvato → canonico
+draft → review → approved → canonical
 ```
 
 | Stato | Significato |
 |-------|-------------|
-| `bozza` | Prima stesura, soggetta a modifiche sostanziali |
-| `revisione` | Testo stabile, in attesa di revisione comunitaria |
-| `approvato` | Approvato tramite il sistema di voting (vedi GOVERNANCE.md) |
-| `canonico` | Testo definitivo. Non modificabile se non per correzioni formali |
+| `draft` | Prima stesura, soggetta a modifiche sostanziali |
+| `review` | Testo stabile, in attesa di revisione comunitaria |
+| `approved` | Approvato tramite il sistema di voting (vedi GOVERNANCE.md) |
+| `canonical` | Testo definitivo. Non modificabile se non per correzioni formali |
 
 ---
 

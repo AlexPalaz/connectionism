@@ -1,8 +1,8 @@
 ---
-titolo: "Titolo del Libro Proposto"
-autore: "Nome dell'Autore"
-data_proposta: "YYYY-MM-DD"
-stato_proposta: "proposta"   # proposta | in-stesura | in-revisione | in-voto | approvato | rifiutato
+title: "Titolo del Libro Proposto"
+author: "Nome dell'Autore"
+proposed: "YYYY-MM-DD"
+status: "proposal"   # proposal | drafting | review | voting | approved | rejected
 ---
 
 # Proposta: Titolo del Libro

@@ -33,7 +33,7 @@ Il ruolo di Fondatore è storico: identifica chi ha originato il Connessionismo.
 
 ### Nomina
 
-Qualsiasi membro con diritto di voto (Custode o Connesso) può proporre un nuovo Custode tramite Issue con tag `[NOMINA-CUSTODE]`.
+Qualsiasi membro con diritto di voto (Custode o Connesso) può proporre un nuovo Custode tramite Issue con tag `[NOMINATE-KEEPER]`.
 
 Requisiti del candidato:
 - Essere già un Connesso (almeno 1 contributo approvato)
@@ -56,7 +56,7 @@ Approvazione: Maggioranza di 2/3 dei voti espressi
 ### Rimozione e Inattività
 
 - Un Custode è considerato **inattivo** dopo 12 mesi senza contributi o voti.
-- Un membro inattivo viene segnalato tramite Issue con tag `[INATTIVITÀ]`.
+- Un membro inattivo viene segnalato tramite Issue con tag `[INACTIVE]`.
 - Dopo 30 giorni dalla segnalazione, se il membro non ha ripreso attività, il ruolo viene revocato con una votazione a maggioranza semplice.
 - Un Custode può anche essere rimosso per giusta causa (violazione delle regole) con votazione a maggioranza di 2/3.
 
@@ -64,7 +64,7 @@ Approvazione: Maggioranza di 2/3 dei voti espressi
 
 Se il numero di Custodi attivi scende sotto 2:
 
-1. Qualsiasi Connesso può autoproporre la propria candidatura tramite Issue con tag `[EMERGENZA-CUSTODE]`
+1. Qualsiasi Connesso può autoproporre la propria candidatura tramite Issue con tag `[EMERGENCY-KEEPER]`
 2. La votazione dura **3 giorni** (anziché 7)
 3. Il quorum è ridotto a **2 votanti**
 4. Approvazione a maggioranza semplice
@@ -77,24 +77,24 @@ Se non ci sono abbastanza Connessi per votare, qualsiasi Osservatore con almeno 
 
 ### Fase 1 — Proposta
 
-1. L'autore apre una **Issue** con il tag `[PROPOSTA-LIBRO]`
+1. L'autore apre una **Issue** con il tag `[BOOK-PROPOSAL]`
 2. La Issue deve contenere:
    - Titolo del libro proposto
    - Autore/i
    - Sinossi (massimo 500 parole)
    - Motivazione: perché questo libro appartiene al Connessionismo
    - Indice provvisorio dei capitoli
-3. L'autore crea un branch: `libro/<slug-del-titolo>`
+3. L'autore crea un branch: `book/<slug-del-titolo>`
 
 ### Fase 2 — Stesura
 
-1. L'autore scrive i capitoli seguendo il [pattern scritturale](rules/writing-pattern.md)
+1. L'autore scrive i capitoli seguendo il [pattern scritturale](writing-pattern.md)
 2. Ogni capitolo viene committato con stato `bozza`
 3. I Custodi e i Connessi possono commentare durante la stesura
 
 ### Fase 3 — Revisione
 
-1. Quando il libro è completo, l'autore apre una **Pull Request** con il tag `[LIBRO]`
+1. Quando il libro è completo, l'autore apre una **Pull Request** con il tag `[BOOK]`
 2. Si apre un periodo di revisione di **21 giorni**
 3. Durante la revisione:
    - Chiunque può commentare
@@ -135,7 +135,7 @@ Il voto si esprime tramite **reaction sulla Pull Request**:
 
 In caso di stallo o disaccordo tra membri con pari diritti:
 
-1. **Discussione**: si apre una Issue con tag `[DISCUSSIONE]` e un periodo di confronto di 14 giorni
+1. **Discussione**: si apre una Issue con tag `[DISPUTE]` e un periodo di confronto di 14 giorni
 2. **Mediazione**: se il confronto non risolve, un Custode non coinvolto nel conflitto funge da mediatore
 3. **Voto finale**: se la mediazione fallisce, si tiene una votazione aperta a tutti gli aventi diritto. Maggioranza semplice. Il risultato è vincolante.
 
@@ -148,8 +148,8 @@ Se tutti i Custodi sono coinvolti nel conflitto, la mediazione spetta al Conness
 I testi con stato `canonico` sono immutabili nel contenuto. Sono permesse solo:
 
 - **Correzioni formali** (typo, formattazione) — tramite PR con tag `[ERRATA]`, approvazione di 1 membro con diritto di voto
-- **Note aggiuntive** — tramite PR con tag `[NOTA]`, processo di voting standard
-- **Traduzioni** — tramite PR con tag `[TRADUZIONE]`, approvazione di 2 membri con diritto di voto
+- **Note aggiuntive** — tramite PR con tag `[NOTE]`, processo di voting standard
+- **Traduzioni** — tramite PR con tag `[TRANSLATION]`, approvazione di 2 membri con diritto di voto
 
 ---
 
