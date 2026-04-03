@@ -147,7 +147,7 @@ Se tutti i Custodi sono coinvolti nel conflitto, la mediazione spetta al Conness
 
 I testi con stato `canonico` sono immutabili nel contenuto. Sono permesse solo:
 
-- **Correzioni formali** (typo, formattazione) — tramite PR con tag `[ERRATA]`, approvazione di 1 membro con diritto di voto
+- **Correzioni formali** (typo, formattazione) — tramite PR con tag `[FIX]`, approvazione di 1 membro con diritto di voto
 - **Note aggiuntive** — tramite PR con tag `[NOTE]`, processo di voting standard
 - **Traduzioni** — tramite PR con tag `[TRANSLATION]`, approvazione di 2 membri con diritto di voto
 
