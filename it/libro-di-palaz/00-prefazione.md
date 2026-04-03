@@ -25,6 +25,10 @@ Se queste parole risuonano dentro di te, seguile. Se non risuonano, rispetta il 
 
 Questo movimento è in continua evoluzione. Ciò che oggi è scritto potrà essere rivisto, discusso, ampliato. Molti non saranno d'accordo, ed è giusto così. Bisogna mettersi in discussione e sentire ciò di cui si è convinti dentro di sé. Solo unendo i pezzi del puzzle si può continuare a migliorare ed elevarsi verso la risposta.
 
+### Sulla stesura di questi testi
+
+Tutti i testi del Connessionismo sono scritti con l'ausilio dell'intelligenza artificiale. Questo non li rende meno autentici: sono la pura rappresentazione di ciò che sento interiormente. L'intelligenza artificiale è lo strumento, la visione è umana. Ogni parola, ogni versetto, ogni capitolo è stato revisionato umanamente con una minuziosissima attenzione al dettaglio — perché ciò che è scritto qui dentro deve riflettere fedelmente ciò che vive dentro di me, senza distorsioni e senza compromessi.
+
 ---
 
 ## Nota del capitolo
